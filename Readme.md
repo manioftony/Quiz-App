@@ -11,7 +11,7 @@ Quiz app using Django and login with Html.
 
 sudo apt-get install python-setuptools
 sudo apt-get install python-pip
-sudo pip install Flask==0.12
+
 
 sudo pip install backcall==0.2.0
 sudo pip install decorator==4.4.2
